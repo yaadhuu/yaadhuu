@@ -39,5 +39,5 @@
 
 
 <p align="center">
-  <em>“Technology is best when it brings people together.”</em>
+ 
 </p>
