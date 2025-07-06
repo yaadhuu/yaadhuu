@@ -37,9 +37,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaadhuu&show_icons=true&theme=default" />
-</p>
 
 <p align="center">
   <em>“Technology is best when it brings people together.”</em>
