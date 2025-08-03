@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yadhu Krishna 👋</h1>
+<h1 align="center">Hi there, I'm Yadhu Krishna </h1>
 
 <p align="center">
   Aspiring Computer Science Engineer | AI & ML Enthusiast | Building meaningful tech with creativity and precision
