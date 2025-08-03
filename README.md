@@ -24,9 +24,6 @@
 
 ---
 
-## 🌱 Projects Snapshot
- [→ View all projects](https://github.com/yaadhuu?tab=repositories)
-
 ---
 
 ## 📫 Let's Connect
