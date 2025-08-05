@@ -6,7 +6,7 @@
 
 ---
 
-## 💼 About Me
+##  About Me
 
 - 🎓 B.Tech in Computer Science & Engineering @ VIT Amaravati (2027 Batch)
 - 💡 Passionate about Artificial Intelligence, Machine Learning & creative tech solutions
