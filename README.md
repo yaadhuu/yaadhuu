@@ -22,7 +22,7 @@
 - **Tools & Platforms**: Git, Firebase, Streamlit, Vite, VS Code
 - **AI/ML**: scikit-learn, Hugging Face, OpenAI, Pickle, Pandas
 
----
+--
 
 ## 📫 Let's Connect
 
