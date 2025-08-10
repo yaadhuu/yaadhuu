@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Developer Animation" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Developer Animation" width="70%" />
 </p>
 
 <h2 align="center">
@@ -51,9 +51,9 @@ I am **Yadhu Krishna P**, a passionate **Software Engineer** and **AI/ML Enthusi
 ---
 
 <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Keep Coding" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Keep Coding" width="250" />
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/cat.gif" alt="Pixel Cat" width="60" />
+  <img src="" alt="Pixel Cat" width="60" />
 </p>
