@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Pixel Coder at Desk" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif
+    " alt="Pixel Coder at Desk" width="100%" />
 </p>
 
 <h2 align="center">
