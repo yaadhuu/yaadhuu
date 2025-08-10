@@ -37,9 +37,14 @@
 
 ---
 
-## 🏆 LeetCode
+---
+
+##  LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yaadhuu?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/yaadhuu">
+    <img src="https://leetcard.jacoblin.cool/yaadhuu?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" alt="LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center"><sub>90-day LeetCode challenge!</sub></p>
+
