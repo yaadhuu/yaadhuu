@@ -3,11 +3,11 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yadhu+Krishna+P" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yadhu+Krishna+P" alt="Typing Intro" />
 </h2>
 
 <h3 align="center">
-  🎓 Computer Science Student | 💻 Software Developer | 🤖 ML Engineer
+  🎓 Computer Science Student | Software Developer | AI ML Engineer
 </h3>
 
 <p align="center">
@@ -25,6 +25,7 @@
 
 ---
 
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaadhuu&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhuu&theme=radical" height="180" />
@@ -33,3 +34,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaadhuu&theme=tokyo-night&area=true" />
 </p>
+
+---
+
+## 🏆 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yaadhuu?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center"><sub>90-day LeetCode challenge!</sub></p>
