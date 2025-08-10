@@ -1,64 +1,53 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Yeadhu+Krishna+P;Software+Engineer+in+the+making;Open+Source+%7C+DSA+%7C+AI+%7C+ML;GSSoC'25+Contributor+%7C+90+Days+LeetCode+Challenge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=Yeadhu+Krishna+P;Software+Engineer+%7C+Open+Source+Contributor;90+Days+LeetCode+Challenge;Working+on+Multilingual+OCR+Research" alt="Typing SVG" />
 </h1>
 
+---
+
+## 👨‍💻 About Me  
+Hi, I’m **Yeadhu Krishna P**, a **Software Developer** passionate about building impactful solutions.  
+Currently contributing to **GSSoC 2025** and working on a **research paper on Multilingual OCR**.  
+I believe in learning by doing — from **competitive coding** to **real-world projects**.
+
+---
+
+## 📜 Professional Experience  
+- **Software Development Intern** – *[Company Name]* *(Month Year – Month Year)*  
+  - Worked on scalable backend APIs and integrated authentication workflows.
+- **Machine Learning Intern** – *[Company Name]* *(Month Year – Month Year)*  
+  - Built and optimized OCR pipelines for multilingual text recognition.  
+- **Research Work** – *Multilingual OCR*  
+  - Developing a **custom OCR model** for multiple scripts and languages.
+
+---
+
+## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaadhuu&label=Profile%20Views&color=0E79B2&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yaadhuu?style=for-the-badge&color=00F5D4" alt="Followers" />
-  <img src="https://img.shields.io/badge/90%20Days-LeetCode%20Challenge-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Challenge" />
-  <img src="https://img.shields.io/badge/GSSoC'25-Open%20Source%20Contributor-FFC300?style=for-the-badge&logo=opensourceinitiative&logoColor=black" alt="GSSoC Badge" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,react,nodejs,mongodb,firebase,git,linux" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary  
-I am **Yeadhu Krishna P**, a Computer Science undergraduate with a strong focus on **Data Structures & Algorithms, Machine Learning, and Software Development**.  
-Currently contributing as an **Open Source Developer** in **GirlScript Summer of Code 2025 (GSSoC'25)** while pursuing the **90 Days LeetCode Challenge** to refine problem-solving expertise.
-
-Key Highlights:  
-- 🔹 **Proficient in:** Java, Python, C++  
-- 🔹 **Interests:** Artificial Intelligence, Data Science, Competitive Programming  
-- 🔹 **Development Skills:** Web fundamentals (HTML, CSS), Git/GitHub, Firebase  
-- 🔹 **Work Ethic:** Consistency-driven, analytical mindset, meticulous debugging skills  
+## 🚀 Current Activities  
+- 🏆 **90 Days LeetCode Challenge** — sharpening problem-solving skills daily.  
+- 🤝 **GSSoC 2025 Contributor** — collaborating on open-source projects.  
+- 📄 **Research Paper on Multilingual OCR** — combining NLP, CV, and ML.
 
 ---
 
-## 🛠 Technical Stack  
+## 📊 GitHub Stats & Contributions  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaadhuu&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yaadhuu&theme=radical&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaadhuu&theme=onedark&no-frame=true&row=1&column=7" width="100%">
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaadhuu&show_icons=true&theme=react&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhuu&theme=react&hide_border=true" width="49%">
-</p>
-
----
-
-## 📈 Contribution Insights  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaadhuu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</p>
-
----
-
-## 🏆 Achievements & Recognition  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaadhuu&theme=matrix&no-frame=true&row=1&column=6" alt="Trophies">
-</p>
-
----
-
-## 🧠 LeetCode Profile  
+## 🌱 LeetCode Progress  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/yaadhuu?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats">
 </p>
@@ -74,4 +63,4 @@ Key Highlights:
 
 ---
 
-💡 *"In code, precision is not optional; it’s the foundation."*  
+💡 *"Code with clarity. Build with purpose. Learn without limits."*
