@@ -1,32 +1,26 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Pixel Coder at Desk" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Developer Animation" width="100%" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F+I’m+Yaadhu+Krishna+P;Dog+Person+%F0%9F%90%B6+%7C+ML+Engineer+%7C+OCR+Researcher;Currently+on+90+Days+LeetCode+Challenge" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Yadhu+Krishna+P;Software+Engineer+%7C+AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Impactful+Tech+Solutions" alt="Typing Intro" />
 </h2>
 
 ---
 
-## 🐶 About Me
-- **B.Tech in Computer Science**
-- **Internships**:
-  - *Software Developer Intern* — [Company A] → Backend API features, automation tooling.
-  - *Machine Learning Intern* — [Company B] → OCR pipeline optimization.
-- **Research**:
-  - Building **Multilingual OCR** for diverse scripts.
-- **Fun Fact**: I debug better when a dog is sitting next to me.
+## 👋 Introduction
+I am **Yadhu Krishna P**, a passionate **Software Engineer** and **AI/ML Enthusiast** with a strong foundation in **full-stack development** and a deep interest in **data-driven solutions**. My work spans building **scalable web applications**, creating **machine learning models**, and contributing to **open-source projects**. I focus on writing **clean, maintainable code** and crafting **user-centric solutions** that merge functionality with performance.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,html,css,git,docker,linux,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,html,css,nodejs,express,git,github,docker,linux,mysql,mongodb,postgres,tensorflow,pytorch,flask&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaadhuu&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaadhuu&theme=radical" height="180" />
@@ -38,11 +32,11 @@
 
 ---
 
-## 🚀 Projects & Highlights
-- **Multilingual OCR Research** — real-time script recognition.
-- **Automation Tools** — streamlining repetitive dev tasks.
-- **Portfolio Site** — React + TailwindCSS.
-- **LeetCode 90-Day Challenge** — problem-solving grind.
+## 📌 Highlights
+- Delivered **AI-powered tools** for real-world applications.
+- Developed and maintained **scalable backend services**.
+- Built **responsive, interactive web interfaces**.
+- Actively contributing to **open-source software**.
 
 ---
 
@@ -56,7 +50,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Keep Coding" width="60%" />
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Keep Coding" width="250" />
 </p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/cat.gif" alt="Pixel Cat" width="60" />
+</p>
