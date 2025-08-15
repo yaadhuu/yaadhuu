@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,nodejs,express,git,github,docker,linux,mysql,mongodb,postgres,tensorflow,pytorch,flask&theme=dark" />
 </p>
