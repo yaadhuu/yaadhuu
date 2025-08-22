@@ -36,7 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaadhuu&theme=tokyo-night&area=true" />
 </p>
 
----
 
 ---
 
